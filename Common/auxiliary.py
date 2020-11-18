@@ -1,5 +1,6 @@
 import numpy as np
 from Common import fft
+from Common import fourier_transform
 
 
 def zero_padding(x, h):
